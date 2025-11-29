@@ -116,7 +116,7 @@ Feel free to fork this repo, open issues, or submit PRs!
 
 **Amit Birbitte**  
 📧 Email: —  amitbirbitte99@gmail.com
-🔗 LinkedIn: —  linkedin.com/in/amit-birbitte
+🔗 LinkedIn: —  https://www.linkedin.com/in/amit-birbitte-499657260/
 
 ---
 
